@@ -306,6 +306,9 @@ color: #ffffff;
   .margin{
     margin: unset;
   }
+  .icon-display {
+    display: flex!important;
+}
 }
 @media screen and (max-width: 1024px) {
   .container{
